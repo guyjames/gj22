@@ -1,0 +1,9 @@
+baseURL = 'https://guyjames.com/'
+languageCode = 'en-gb'
+title = 'Guy James'
+theme = "hyde"
+
+[params]
+
+description = "Creating upward spirals. Web3, GameB, P2P, collapse, regenerative cultures, psychedelics, meditation, and music."
+
