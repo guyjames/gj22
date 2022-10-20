@@ -10,12 +10,12 @@ hide_header: false
 excerpt: >-
  "...maybe, either suddenly or gradually, maybe organically, via a technique or therapy, or using an external aid such as psychedelics: we have a breakthrough! We connect to the Oneness and see that the apparent separation was only an illusion. We see our mind as a mere mechanism running on past momentum, our personality as merely a mixture of biological traits and societal conditioning, and we understand that in a fundamental way, all has always been fine, and will always be fine."
 tags:
-  non-duality
-  meditation
-  philosophy
-  Advaita
-  consciousness
-  zen
+  - non-duality
+  - meditation
+  - philosophy
+  - Advaita
+  - consciousness
+  - zen
 ---
 
 There is a zen saying: "ordinary mind is Buddha mind".
