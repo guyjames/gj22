@@ -18,7 +18,7 @@ We go into where SEEDS is at now as a project and the new regenerative villages 
 
 Thanks to Rieki for a very interesting conversation! Hopefully we can do another one soon and I will link up my decent camera and mic rather than using the built-in ones on my old Thinkpad.
 
-{{< figure src="/images/guy-rieki.jpg" link="https://www.youtube.com/watch?v=0V8zp7JCiqU&t=1966s" width="640px" alt="Guy and Rieki talk about SEEDS" >}}
+{{< youtube 0V8zp7JCiqU >}}
 
 And thanks to George Ash for the timestamps on the call, so you can just jump to the topic you're interested in if you prefer:
 

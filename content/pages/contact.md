@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Contact
 img_path: images/contact.jpg
 menu:
   main:
@@ -8,4 +8,4 @@ menu:
 layout: contact
 ---
 
-To get in touch fill the form below.
+To get in touch send me an email at info [@] guyjames.com

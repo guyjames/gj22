@@ -12,7 +12,7 @@ excerpt: >-
     
 ---
 
-> *Por la noche en la ciudad
+> Por la noche en la ciudad
 >
 > Es la puta realidad
 >
@@ -24,8 +24,9 @@ excerpt: >-
 >
 > Me habeis cortado el vacilón, a comisaría
 >
-> Oh no!*
-- Eskorbuto - 'Oh No! No! No!'
+> Oh no!
+> <cite>- Eskorbuto - 'Oh No! No! No!'</cite>
+>
 
 
 > At night in the city

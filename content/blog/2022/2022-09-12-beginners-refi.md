@@ -14,6 +14,6 @@ excerpt: >-
 
 A short presentation about Regenerative Finance or ReFi for the Earth Regenerators community, started by Joe Brewer.
 
-{{< figure src="/images/beginners-refi.jpg" link="https://youtu.be/g9nvWGRUrK4" width="640px" alt="Guy James Presentation on Regenerative Finance" >}}
+{{< youtube g9nvWGRUrK4 >}}
 
-Photo by Annie D: https://www.pexels.com/photo/yellow-and-orange-leafed-trees-above-clouds-1563247/
+Photo by <a href="https://www.pexels.com/photo/yellow-and-orange-leafed-trees-above-clouds-1563247/">Annie D</a> 
