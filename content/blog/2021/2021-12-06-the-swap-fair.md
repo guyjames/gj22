@@ -51,7 +51,8 @@ This all took place yesterday at the *Fira d'Intercanvi de Mieres* which I was a
 
 As we entered the village and saw the first stalls, I said to Estrella, for whom it was the first visit to this event, 'Welcome to the post-apocalyptic world of the Mieres Swap Fair!'
 
-![swap-fair.jpg](/images/swap-fair.jpg)
+
+{{< figure src="/images/swap-fair.jpg" alt="The Mieres Swap Fair" >}}
 
 The rules of the Swap Fair are simple: you can't accept money for anything, you can't pay for anything with money (other than at the official food and drink stalls which are run by the fair's organisers), and you can't leave anything behind.
 

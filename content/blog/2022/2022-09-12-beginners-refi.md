@@ -15,5 +15,3 @@ excerpt: >-
 A short presentation about Regenerative Finance or ReFi for the Earth Regenerators community, started by Joe Brewer.
 
 {{< youtube g9nvWGRUrK4 >}}
-
-Photo by <a href="https://www.pexels.com/photo/yellow-and-orange-leafed-trees-above-clouds-1563247/">Annie D</a> 

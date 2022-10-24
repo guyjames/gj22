@@ -60,12 +60,12 @@ theme = "hugo-theme-codex"
   name = "Home"
   title = "home"
   url = "/"
-  weight = 20
+  weight = 10
 
 [[menu.main]]
   identifier = "blog"
   name = "Blog"
   title = "Blog"
   url = "/blog"
-  weight = 10 
+  weight = 20 
 
