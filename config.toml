@@ -69,3 +69,11 @@ theme = "hugo-theme-codex"
   url = "/blog"
   weight = 20 
 
+# RSS Feed
+rssLimit = 20
+copyright = "2022 Guy James All rights reserved"
+languageCode = "en-gb"
+
+[author]
+	name = "Guy James"
+	email = "info@guyjames.com"
