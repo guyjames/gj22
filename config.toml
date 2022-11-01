@@ -20,6 +20,7 @@ theme = "hugo-theme-codex"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/guyjames23"
+  youtube = "https://youtube.com/@GuyJames"
   github = "https://github.com/guyjames"
   email = "mailto:info@guyjames.com"
   mastodon = "https://social.coop/@guyjames"
@@ -34,7 +35,7 @@ theme = "hugo-theme-codex"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Email", "RSS", "Ghost", "Twitter", "GitHub", "Mastodon"]
+  iconOrder = ["Email", "RSS", "Ghost", "Twitter", "YouTube", "GitHub", "Mastodon"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   twitterSite = "@guyjames23"
