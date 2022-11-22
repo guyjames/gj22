@@ -1,4 +1,4 @@
 ---
 heading: "guy james"
-subheading: "ReFi, Web3.0, P2P, meditation, psychedelics"
+subheading: "ReFi, Web3.0, P2P, NonDuality"
 ---

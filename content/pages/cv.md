@@ -1,10 +1,10 @@
 ---
-title: CV
+title: Hire Me
 subtitle: Some of what I've done with my life so far.
 img_path: images/guyjames.jpg
 menu:
   main:
-    name: CV
+    name: Hire Me
     weight: 40
 layout: page
 toc: true
