@@ -1,1 +1,1 @@
-.fancy{color:#cb941d}
+.fancy{color:#cb941d}@media only screen and (max-width:768px){.splash-container{display:inline-flex}}
