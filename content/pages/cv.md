@@ -21,6 +21,7 @@ toc: true
 ## Work/Affiliations
 
 - I am one of the founders of the [BEYØND DAO](https://bey0nd.us), working with artists to further the cause of consciousness research in Web3.0. This is my main current project
+- I am collaborating as a trainer with the [EcologyHub](ecologyhub.org/) project based in Terres de l'Ebre in the south of Catalonia
 - I co-managed the retreat centre [Les Gavatxes](https://lesgavatxes.es) in the area of La Alta Garrotxa, Catalonia, Spain for 6 years
 - I have collaborated with [SEEDS](https://joinseeds.earth) on their tokenomics/currency model
 - I worked on the [FairCoop](https://web.archive.org/web/20220810121936/https://fair.coop/en) project, effectively one of the first DAOs, for 4 years: 2014-18
