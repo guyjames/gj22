@@ -34,7 +34,13 @@ tags:
 
 * * *
 
-{{< figure src="https://2018.guyjames.com/wp-content/uploads/2014/08/escalator_to_hell-300x200.jpg" alt="Escalator to Hell" >}}
+<p></p>
+<figure style="width:100%;">
+    <img src="https://2018.guyjames.com/wp-content/uploads/2014/08/escalator_to_hell-300x200.jpg">
+</figure>
+<p></p>
+
+---
 
 Having &#8216;turned the corner&#8217; as it were, (in terms of hope for the future if not in an actual improvement in my health),  although I didn&#8217;t know for sure then if it was a genuine &#8216;touching rock bottom&#8217;, or merely one more step on the way down, I began to search for something which might genuinely make a difference to my health. I had the deep suspicion that the cause of the eczema was not merely physical, and that as I had already completely changed my diet, was taking much more exercise than before (including playing squash, swimming (although not in the sea – way too painful!) and doing Chi Gong) and was still suffering a great deal, I felt that there must be a way of liberating the subconscious energy which I felt must be at the root of the skin condition.
 
@@ -42,9 +48,10 @@ I was doing a lot of research online at the time, and buying a lot of books in t
 
 What I didn&#8217;t realise is that one of the main centres for the training of Holotropic Breathwork (HB) is fairly near me, so there were a couple of centres offering it not too far away. I immediately, and with a fair amount of trepidation, knowing that this would probably not be an easy thing to go through, contacted them and, once they had satisfied themselves that I met the mental and physical health criteria necessary, arranged to go to a one-day HB workshop they were holding at the end of the month in Barcelona.
 
-I am not going to go into the full story of what HB is, (other than to say it involves rapid breathing until one enters a kind of trance), or what happened at this workshop, but suffice it to say, it was extremely intense, and the latter part of it involved reliving my own birth, both from my own perspective as a tiny baby, but also from my mother&#8217;s perspective (even more strange, although it felt perfectly natural at the time).<figure id="attachment_3322" aria-describedby="caption-attachment-3322" style="width: 300px" class="wp-caption alignright">
-
-{{< figure src="https://2018.guyjames.com/wp-content/uploads/2014/08/Christina_and_Stanislav_Grof2-300x264.jpg" alt="Christina and Stanislav Grof" caption="Christina and Stanislav Grof, creators of Holotropic Breathwork" >}}
+I am not going to go into the full story of what HB is, (other than to say it involves rapid breathing until one enters a kind of trance), or what happened at this workshop, but suffice it to say, it was extremely intense, and the latter part of it involved reliving my own birth, both from my own perspective as a tiny baby, but also from my mother&#8217;s perspective (even more strange, although it felt perfectly natural at the time).
+<p></p>
+<figure id="attachment_3322" aria-describedby="caption-attachment-3322" style="width: 300px" class="wp-caption alignright">
+{{< figure src="https://2018.guyjames.com/wp-content/uploads/2014/08/Christina_and_Stanislav_Grof2-300x264.jpg" alt="Christina and Stanislav Grof" caption="Christina and Stanislav Grof, creators of Holotropic Breathwork" >}}</figure>
 
 <span class="pullquote">After this first session I felt like an enormous weight had lifted, and to my immense delight, the eczema actually improved massively.</span> As you may know if you have ever suffered from it, the good thing about eczema is that it can heal extremely quickly – you can be a red-raw mess one day, and a couple of days later it can be well on the way to being completely better. However the opposite is also true, and even more so – you can be fine in the morning but by the evening look like a bad sunburn case and be feeling absolutely terrible.
 

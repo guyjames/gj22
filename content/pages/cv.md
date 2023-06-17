@@ -14,13 +14,15 @@ toc: true
 
 - Male
 - Born 1969 in the UK
-- Lives in the Garrotxa region of Catalonia, Spain
+- Currently living in the highest village in Spain (alt. 1678m), Valdelinares, in the Teruel region.
 
 ![guy-profile.jpg](/images/guy-profile.jpg)
 
+## [My LinkedIn Profile](https://www.linkedin.com/in/guy-james-212383276/)
+
 ## Work/Affiliations
 
-- I am one of the founders of the [BEYØND DAO](https://bey0nd.us), working with artists to further the cause of consciousness research in Web3.0. This is my main current project
+- I am one of the founders of the [BEYØND DAO](https://bey0nd.us), working with artists to further the cause of consciousness research in Web3.0. This is my main current project along with [The Elevator](https://theelevator.earth) which is a nascent 'consciousness accelerator'/think tank. I am currently producing a digest/newsletter on consciousness research for The Elevator in collaboration with the author Daniel Pinchbeck; it can be found at [wearetheelevator.substack.com](https://wearetheelevator.substack.com)
 - I am collaborating as a trainer with the [EcologyHub](ecologyhub.org/) project based in Terres de l'Ebre in the south of Catalonia
 - I co-managed the retreat centre [Les Gavatxes](https://lesgavatxes.es) in the area of La Alta Garrotxa, Catalonia, Spain for 6 years
 - I have collaborated with [SEEDS](https://joinseeds.earth) on their tokenomics/currency model
@@ -49,6 +51,7 @@ toc: true
 - Building Our Regenerative Future with Daniel Pinchbeck
 - The Creative Word with Daniel Pinchbeck
 - Crossing The Threshold with Daniel Pinchbeck
+- Secret Histories and Spiritual Revolutions with Daniel Pinchbeck
 - Tools For The Regenerative Renaissance with Stephen Reid and Phoebe Tickell
 - How To DAO with Stephen Reid
 - How To DeFi with Stephen Reid

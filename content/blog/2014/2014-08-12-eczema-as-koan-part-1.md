@@ -28,7 +28,10 @@ tags:
 
 ---
 
-{{< figure src="https://2018.guyjames.com/wp-content/uploads/2014/08/standing_at_the_gates_of_hell.jpg" alt="Standing at the Gates of Hell" height="300" >}}
+<p></p>
+<figure style="width:300px;">
+    <img src="https://2018.guyjames.com/wp-content/uploads/2014/08/standing_at_the_gates_of_hell.jpg" width="300">
+</figure>
 
 This is part one of a three part article; [part two is here]( {{< ref "2014-08-16-eczema-as-koan-part-2-the-descent-into-hell.md" >}} ) and [the final part is here]( {{< ref "2014-08-24-eczema-as-koan-part-3-the-way-out.md" >}} )
 
@@ -52,7 +55,10 @@ My cousin had been a dietician and had recommended that I stop eating wheat and 
 
 I was having some strange &#8216;side effects&#8217; to the illness though (and if you are not particularly interested in what we might call the psychological or spiritual aspect to this story, you can safely skip this part) – often, lying in bed unable to sleep, I would have odd &#8216;visions&#8217; – images coming from who knows where, which seemed to be carrying some sort of oblique message for me. I intensified this by sometimes doing one of Stuart Wilde&#8217;s guided meditations, listening on headphones, where he would lead you in your imagination into a secret garden, and from there, once in a kind of shamanic trance state, a &#8216;journey&#8217; could take place into realms unknown.
 
-{{< figure src="https://2018.guyjames.com/wp-content/uploads/2014/08/dali_ace_of_cups-158x300.jpeg" alt="Ace of Cups tarot card by Salvador Dalí" width="158" height="300" >}}
+<p></p>
+<figure style="width:158px;">
+    <img src="https://2018.guyjames.com/wp-content/uploads/2014/08/dali_ace_of_cups-158x300.jpeg" width="158" alt="Ace of Cups tarot card by Salvador Dalí">
+</figure>
 
 I can&#8217;t remember if it was during one of these &#8216;journeys&#8217; or just spontaneously, but one time a very powerful vision arose of the Holy Grail, but in a kind of classic optical illusion where the cup is made by the profiles of two faces. This was accompanied by a vision of the beach at Cadaqués, near where I live, where my ex-girlfriend and I had shared a particularly emotional moment in our relationship. I realised the meaning of the Holy Grail – it is a state of perfect equilibrium between the opposites; the polarities which make up existence – male and female, black and white, hard and soft etc. &#8211; and out of this polarity flows a &#8216;third&#8217; force, which one might call the energy of perfection or possibly the divine. This image took me by surprise because I have never been a Christian by any stretch of the imagination, other than a cultural one by virtue of being born in a nominally Christian country, the UK.
 
