@@ -2,7 +2,6 @@ baseURL = 'https://guyjames.com/'
 languageCode = 'en-gb'
 title = 'Guy James'
 copyright = "© {year}"
-#theme = "hyde"
 theme = "hugo-theme-codex"
 
 # Add your Disqus shortname here.

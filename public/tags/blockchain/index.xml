@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Guy James</title>
+    <link>http://localhost:1313/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Guy James</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>info@guyjames.com (Guy James)</managingEditor>
+    <webMaster>info@guyjames.com (Guy James)</webMaster>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Wed, 16 May 2018 15:01:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“Code is Love”: Justice On the Blockchain</title>
+      <link>http://localhost:1313/2018/05/16/code-is-love-justice-on-the-blockchain/</link>
+      <pubDate>Wed, 16 May 2018 15:01:27 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/2018/05/16/code-is-love-justice-on-the-blockchain/</guid>
+      <description>We all know that ‘love’ is a dirty word these days. It is relentlessly abused by advertisers who always seek to exploit our earliest psychological bonds with our parents and then by sheer repetition, associate themselves with those symbols we learnt in our childhood relating to those bonds. ‘Love’ is one such, and massively overused by Hollywood to boot, in its romantic aspect.&#xA;However, as Cornel West so eloquently put it —</description>
+    </item>
+  </channel>
+</rss>

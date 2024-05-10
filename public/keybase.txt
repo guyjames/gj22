@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/guyjames
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://guyjames.com
+  * I am guyjames (https://keybase.io/guyjames) on keybase.
+  * I have a public key ASDzPNapcpjc9FENz-okcF9qgHWcHtPF-0I-fMXyF-c9yAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012097bf21a1cf3d8a67c051c779c72c52fb8e5ce6fc912fd16159fc3dd01f8652930a",
+      "host": "keybase.io",
+      "kid": "0120f33cd6a97298dcf4510dcfea24705f6a80759c1ed3c5fb423e7cc5f217e73dc80a",
+      "uid": "85a8762e637ddedf872bdc476f9e5919",
+      "username": "guyjames"
+    },
+    "merkle_root": {
+      "ctime": 1669122099,
+      "hash": "68db32b2fdfc58aa2e6d49d032322b1097fb598cf516e9f3c39548d7909d8dbadf9a85d702d64046be570ffca3ceb88c9b2012faab4f68f8db4e5aa9a880a20a",
+      "hash_meta": "3dcadd61bcf5579c3d15938270b4856684daabc3ca9ff38461ca22c7b1c9fedf",
+      "seqno": 23597055
+    },
+    "service": {
+      "entropy": "iwEF8v4Tmw7Gw1AMl0O/4UT9",
+      "hostname": "guyjames.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1669122161,
+  "expire_in": 504576000,
+  "prev": "d375073163c172620090629af0ff433b2f7bda5d48a2c8e1c2e720ea0c256115",
+  "seqno": 70,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8zzWqXKY3PRRDc/qJHBfaoB1nB7TxftCPnzF8hfnPcgKp3BheWxvYWTESpcCRsQg03UHMWPBcmIAkGKa8P9DOy972l1Iosjhwucg6gwlYRXEIKd555OrKwKUbya47pbOVC6zQEzJn3vqZB5cnexZByJWAgHCo3NpZ8RAp9NdZCw0g+fZZ+s3TPEwTn9kbU+awdsaG2cw9aTvoQFAeICP2g2dJMGGd6q3mijCr95iivQFQhWytxv+fRDlBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIVP7YxhpPWWMJkmri3ryqmfNVvF9680rHrniXCUHaV5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/guyjames
+
+==================================================================

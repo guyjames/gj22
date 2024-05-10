@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quotes on Guy James</title>
+    <link>http://localhost:1313/categories/quotes/</link>
+    <description>Recent content in Quotes on Guy James</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>info@guyjames.com (Guy James)</managingEditor>
+    <webMaster>info@guyjames.com (Guy James)</webMaster>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 16 Nov 2008 10:57:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nobody believes in god like an atheist</title>
+      <link>http://localhost:1313/2008/11/16/nobody-believes-in-god-like-an-atheist/</link>
+      <pubDate>Sun, 16 Nov 2008 10:57:41 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/2008/11/16/nobody-believes-in-god-like-an-atheist/</guid>
+      <description>But the atheist, you see — the man who advertises his disbelief in god — is a very pious person. Nobody believes in god like an atheist. ‘There is no god, and I am his prophet.’&#xA;Alan Watts&#xA;I’ve always thought that Richard Dawkins and his followers have an evangelical air about them, confirmed by the ‘Atheist Ad Campaign’.&#xA;I mean if religion is a bad thing, then why drag yourself down to their level?</description>
+    </item>
+  </channel>
+</rss>

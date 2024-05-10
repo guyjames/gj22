@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Guy James</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Guy James</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>info@guyjames.com (Guy James)</managingEditor>
+    <webMaster>info@guyjames.com (Guy James)</webMaster>
+    <copyright>© {year}</copyright>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description>Ruminations on GameB, P2P, collapse, regenerative cultures, Web3.0, psychedelics and music.&#xA;Currently working with BEYØND DAO.&#xA;In the past I have worked with the Cooperativa Integral Catalana - you can see me and others talking about it in the documentary Autogestió - also the Ecoxarxa Garrotxa, and FairCoop. For more details see the CV page.&#xA;In my opinion humanity is approaching a threshold: we are in an extended process of birthing a new consciousness.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/pages/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/pages/contact/</guid>
+      <description>To get in touch send me an email at info [@] guyjames.com</description>
+    </item>
+    <item>
+      <title>Hire Me</title>
+      <link>http://localhost:1313/pages/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/pages/cv/</guid>
+      <description>Basic Male Born 1969 in the UK Currently living in the highest village in Spain (alt. 1678m), Valdelinares, in the Teruel region. My LinkedIn Profile Work/Affiliations I am one of the founders of the BEYØND DAO, working with artists to further the cause of consciousness research in Web3.0. This is my main current project along with The Elevator which is a nascent &amp;lsquo;consciousness accelerator&amp;rsquo;/think tank. I am currently producing a digest/newsletter on consciousness research for The Elevator in collaboration with the author Daniel Pinchbeck; it can be found at wearetheelevator.</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/pages/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/pages/music/</guid>
+      <description>Click here to go to my BandCamp page&#xA;I have more songs and info at my SoundCloud page and you can listen to the album and subscribe to updates at my Facebook Page&#xA;Music, not for taking drugs to, but that is in itself a drug.</description>
+    </item>
+  </channel>
+</rss>

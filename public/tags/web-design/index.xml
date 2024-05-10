@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Design on Guy James</title>
+    <link>http://localhost:1313/tags/web-design/</link>
+    <description>Recent content in Web Design on Guy James</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>info@guyjames.com (Guy James)</managingEditor>
+    <webMaster>info@guyjames.com (Guy James)</webMaster>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Fri, 15 May 2015 12:37:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Raptcha</title>
+      <link>http://localhost:1313/2015/05/15/the-raptcha/</link>
+      <pubDate>Fri, 15 May 2015 12:37:01 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/2015/05/15/the-raptcha/</guid>
+      <description>Raptcha – when you are swept up to heaven based on correctly copying some random letters and numbers into a text box.&#xA;(I actually dreamt this bizarre pun)&#xA;via tumblr http://ift.tt/1L6PFZq published on May 15, 2015 at 01:37PM&#xA;Some rights reserved – Creative Commons Licence.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Guy James</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in AI on Guy James</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>info@guyjames.com (Guy James)</managingEditor>
+    <webMaster>info@guyjames.com (Guy James)</webMaster>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 25 Sep 2023 11:47:18 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spreadsheet Brain</title>
+      <link>http://localhost:1313/2023/09/25/spreadsheet-brain/</link>
+      <pubDate>Mon, 25 Sep 2023 11:47:18 +0200</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/2023/09/25/spreadsheet-brain/</guid>
+      <description>“The inability to conceive of its own devastation will tend to be the blind spot of any culture.&amp;quot; — Jonathan Lear in Radical Hope: Ethics in the Face of Cultural Devastation.&#xA;&amp;ldquo;What is soul? I don&amp;rsquo;t know&#xA;Soul is the ring around your bathtub&amp;rdquo; — Funkadelic, What Is Soul?&#xA;(meme courtesy of Ashley Colby)&#xA;Ashley Colby, a US citizen, resides in Uruguay, lives a &amp;lsquo;Little House on the Pampa&amp;rsquo; trad-wife lifestyle (it&amp;rsquo;s not LARPing if you do it for real), and crucially for this essay, is the coiner of the term &amp;lsquo;spreadsheet brain&amp;rsquo;.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast on Guy James</title>
+    <link>http://localhost:1313/tags/podcast/</link>
+    <description>Recent content in Podcast on Guy James</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>info@guyjames.com (Guy James)</managingEditor>
+    <webMaster>info@guyjames.com (Guy James)</webMaster>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sat, 06 May 2023 11:47:18 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Check out the Alquimystica Podcast</title>
+      <link>http://localhost:1313/2023/05/06/alquimystica-podcast/</link>
+      <pubDate>Sat, 06 May 2023 11:47:18 +0200</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/2023/05/06/alquimystica-podcast/</guid>
+      <description>Not enough content and information in your life? Ok yes I know you are drowning in it, as are we all. But if you are interested in the very specific topic of psychedelic integration and how to bring the insights of your entheogenic adventures into your daily life, then I think you will be interested in this particular episode, featuring an interview between my friend Emer and Marc Aixalà, the author of Psychotherapy for Non-Ordinary States of Consciousness and a founder member of ICEERS (The International Center for Ethnobotanical Education, Research, and Service).</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Occupy Wall Street on Guy James</title>
+    <link>http://localhost:1313/tags/occupy-wall-street/</link>
+    <description>Recent content in Occupy Wall Street on Guy James</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>info@guyjames.com (Guy James)</managingEditor>
+    <webMaster>info@guyjames.com (Guy James)</webMaster>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 09 Oct 2011 18:12:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/occupy-wall-street/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Beginning Is Nigh</title>
+      <link>http://localhost:1313/2011/10/09/beginning-is-nigh/</link>
+      <pubDate>Sun, 09 Oct 2011 18:12:38 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
+      <guid>http://localhost:1313/2011/10/09/beginning-is-nigh/</guid>
+      <description>Having read Douglas Rushkoff’s excellent appraisal of the Occupy Wall Street movement, I felt I would like to add some thoughts.&#xA;There is a new consciousness crystallising, and Rushkoff said something which (as usual) was very insightful, in that the mainstream media are having trouble getting to grips with the (r)evolution because they can’t see it, it just looks like a jumble of different causes all mixed together, and the people at the heart of it refuse to discuss it on the mainstream media’s terms, and reduce everything to black and white and soundbites.</description>
+    </item>
+  </channel>
+</rss>
