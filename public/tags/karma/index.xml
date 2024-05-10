@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karma on Guy James</title>
-    <link>http://localhost:1313/tags/karma/</link>
+    <link>http://localhost:43123/tags/karma/</link>
     <description>Recent content in Karma on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,13 +10,13 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Sat, 09 Jan 2016 10:22:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/karma/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/karma/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eczema As Koan Update</title>
-      <link>http://localhost:1313/2016/01/09/eczema-as-koan-update/</link>
+      <link>http://localhost:43123/2016/01/09/eczema-as-koan-update/</link>
       <pubDate>Sat, 09 Jan 2016 10:22:56 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2016/01/09/eczema-as-koan-update/</guid>
-      <description>&lt;p&gt;I thought I would add a brief update related to my &lt;a href=&#34;http://localhost:1313/2014/08/12/eczema-as-koan-part-1/&#34; &#xA;  &#xA;  &#xA;&gt;previous posts&lt;/a&gt; about becoming healed from severe eczema. These passages are adapted from replies to people on the Eczema/Topical Steroid Withdrawal group on Facebook. Given the ephemeral nature of Facebook I wanted to save them somewhere in case they might be useful to anyone in the future.&lt;/p&gt;</description>
+      <guid>http://localhost:43123/2016/01/09/eczema-as-koan-update/</guid>
+      <description>&lt;p&gt;I thought I would add a brief update related to my &lt;a href=&#34;http://localhost:43123/2014/08/12/eczema-as-koan-part-1/&#34; &#xA;  &#xA;  &#xA;&gt;previous posts&lt;/a&gt; about becoming healed from severe eczema. These passages are adapted from replies to people on the Eczema/Topical Steroid Withdrawal group on Facebook. Given the ephemeral nature of Facebook I wanted to save them somewhere in case they might be useful to anyone in the future.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

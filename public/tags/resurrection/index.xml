@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resurrection on Guy James</title>
-    <link>http://localhost:1313/tags/resurrection/</link>
+    <link>http://localhost:43123/tags/resurrection/</link>
     <description>Recent content in Resurrection on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,12 +10,12 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Sun, 24 Aug 2014 11:38:57 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/resurrection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/resurrection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eczema As Koan Part 3: The Way Out</title>
-      <link>http://localhost:1313/2014/08/24/eczema-as-koan-part-3-the-way-out/</link>
+      <link>http://localhost:43123/2014/08/24/eczema-as-koan-part-3-the-way-out/</link>
       <pubDate>Sun, 24 Aug 2014 11:38:57 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2014/08/24/eczema-as-koan-part-3-the-way-out/</guid>
+      <guid>http://localhost:43123/2014/08/24/eczema-as-koan-part-3-the-way-out/</guid>
       <description>This is part three of my account of how I came to experience full healing from a very severe experience of eczema lasting several years. Part one is here and part two is here.&#xA;3I have covered my journey of healing and discovery up until this point, which took the form of a voyage into the depths of Hell and out again.&#xA;Looking back now, I can see that – after all the very difficult experiences of reliving my own birth, and releasing so much anger and resentment (I have barely scratched the surface here), plus experiencing mythic situations both hellish and heavenly – the real breakthrough came during the sixth session of Holotropic Breathwork I experienced in Barcelona.</description>
     </item>
   </channel>

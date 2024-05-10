@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Guy James</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:43123/tags/</link>
     <description>Recent content in Tags on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,852 +10,852 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Mon, 25 Sep 2023 11:47:18 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>http://localhost:43123/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://localhost:43123/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Neuroscience</title>
-      <link>http://localhost:1313/tags/neuroscience/</link>
+      <link>http://localhost:43123/tags/neuroscience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/neuroscience/</guid>
+      <guid>http://localhost:43123/tags/neuroscience/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:1313/tags/philosophy/</link>
+      <link>http://localhost:43123/tags/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/philosophy/</guid>
+      <guid>http://localhost:43123/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
       <title>Psychology</title>
-      <link>http://localhost:1313/tags/psychology/</link>
+      <link>http://localhost:43123/tags/psychology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/psychology/</guid>
+      <guid>http://localhost:43123/tags/psychology/</guid>
       <description></description>
     </item>
     <item>
       <title>Alchemy</title>
-      <link>http://localhost:1313/tags/alchemy/</link>
+      <link>http://localhost:43123/tags/alchemy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/alchemy/</guid>
+      <guid>http://localhost:43123/tags/alchemy/</guid>
       <description></description>
     </item>
     <item>
       <title>Podcast</title>
-      <link>http://localhost:1313/tags/podcast/</link>
+      <link>http://localhost:43123/tags/podcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/podcast/</guid>
+      <guid>http://localhost:43123/tags/podcast/</guid>
       <description></description>
     </item>
     <item>
       <title>Psychedelics</title>
-      <link>http://localhost:1313/tags/psychedelics/</link>
+      <link>http://localhost:43123/tags/psychedelics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/psychedelics/</guid>
+      <guid>http://localhost:43123/tags/psychedelics/</guid>
       <description></description>
     </item>
     <item>
       <title>Magazine</title>
-      <link>http://localhost:1313/tags/magazine/</link>
+      <link>http://localhost:43123/tags/magazine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/magazine/</guid>
+      <guid>http://localhost:43123/tags/magazine/</guid>
       <description></description>
     </item>
     <item>
       <title>Pinchbeck</title>
-      <link>http://localhost:1313/tags/pinchbeck/</link>
+      <link>http://localhost:43123/tags/pinchbeck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/pinchbeck/</guid>
+      <guid>http://localhost:43123/tags/pinchbeck/</guid>
       <description></description>
     </item>
     <item>
       <title>Writing</title>
-      <link>http://localhost:1313/tags/writing/</link>
+      <link>http://localhost:43123/tags/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/writing/</guid>
+      <guid>http://localhost:43123/tags/writing/</guid>
       <description></description>
     </item>
     <item>
       <title>Advaita</title>
-      <link>http://localhost:1313/tags/advaita/</link>
+      <link>http://localhost:43123/tags/advaita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/advaita/</guid>
+      <guid>http://localhost:43123/tags/advaita/</guid>
       <description></description>
     </item>
     <item>
       <title>Consciousness</title>
-      <link>http://localhost:1313/tags/consciousness/</link>
+      <link>http://localhost:43123/tags/consciousness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/consciousness/</guid>
+      <guid>http://localhost:43123/tags/consciousness/</guid>
       <description></description>
     </item>
     <item>
       <title>Meditation</title>
-      <link>http://localhost:1313/tags/meditation/</link>
+      <link>http://localhost:43123/tags/meditation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/meditation/</guid>
+      <guid>http://localhost:43123/tags/meditation/</guid>
       <description></description>
     </item>
     <item>
       <title>Non-Duality</title>
-      <link>http://localhost:1313/tags/non-duality/</link>
+      <link>http://localhost:43123/tags/non-duality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/non-duality/</guid>
+      <guid>http://localhost:43123/tags/non-duality/</guid>
       <description></description>
     </item>
     <item>
       <title>Zen</title>
-      <link>http://localhost:1313/tags/zen/</link>
+      <link>http://localhost:43123/tags/zen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/zen/</guid>
+      <guid>http://localhost:43123/tags/zen/</guid>
       <description></description>
     </item>
     <item>
       <title>Gurus</title>
-      <link>http://localhost:1313/tags/gurus/</link>
+      <link>http://localhost:43123/tags/gurus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/gurus/</guid>
+      <guid>http://localhost:43123/tags/gurus/</guid>
       <description></description>
     </item>
     <item>
       <title>Jung</title>
-      <link>http://localhost:1313/tags/jung/</link>
+      <link>http://localhost:43123/tags/jung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/jung/</guid>
+      <guid>http://localhost:43123/tags/jung/</guid>
       <description></description>
     </item>
     <item>
       <title>Shadow</title>
-      <link>http://localhost:1313/tags/shadow/</link>
+      <link>http://localhost:43123/tags/shadow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/shadow/</guid>
+      <guid>http://localhost:43123/tags/shadow/</guid>
       <description></description>
     </item>
     <item>
       <title>Balsekar</title>
-      <link>http://localhost:1313/tags/balsekar/</link>
+      <link>http://localhost:43123/tags/balsekar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/balsekar/</guid>
+      <guid>http://localhost:43123/tags/balsekar/</guid>
       <description></description>
     </item>
     <item>
       <title>Devs</title>
-      <link>http://localhost:1313/tags/devs/</link>
+      <link>http://localhost:43123/tags/devs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/devs/</guid>
+      <guid>http://localhost:43123/tags/devs/</guid>
       <description></description>
     </item>
     <item>
       <title>Predetermination</title>
-      <link>http://localhost:1313/tags/predetermination/</link>
+      <link>http://localhost:43123/tags/predetermination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/predetermination/</guid>
+      <guid>http://localhost:43123/tags/predetermination/</guid>
       <description></description>
     </item>
     <item>
       <title>Death</title>
-      <link>http://localhost:1313/tags/death/</link>
+      <link>http://localhost:43123/tags/death/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/death/</guid>
+      <guid>http://localhost:43123/tags/death/</guid>
       <description></description>
     </item>
     <item>
       <title>Love</title>
-      <link>http://localhost:1313/tags/love/</link>
+      <link>http://localhost:43123/tags/love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/love/</guid>
+      <guid>http://localhost:43123/tags/love/</guid>
       <description></description>
     </item>
     <item>
       <title>Myths</title>
-      <link>http://localhost:1313/tags/myths/</link>
+      <link>http://localhost:43123/tags/myths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/myths/</guid>
+      <guid>http://localhost:43123/tags/myths/</guid>
       <description></description>
     </item>
     <item>
       <title>Progress</title>
-      <link>http://localhost:1313/tags/progress/</link>
+      <link>http://localhost:43123/tags/progress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/progress/</guid>
+      <guid>http://localhost:43123/tags/progress/</guid>
       <description></description>
     </item>
     <item>
       <title>Anarchy</title>
-      <link>http://localhost:1313/tags/anarchy/</link>
+      <link>http://localhost:43123/tags/anarchy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/anarchy/</guid>
+      <guid>http://localhost:43123/tags/anarchy/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>http://localhost:1313/tags/blockchain/</link>
+      <link>http://localhost:43123/tags/blockchain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <guid>http://localhost:43123/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Governance</title>
-      <link>http://localhost:1313/tags/governance/</link>
+      <link>http://localhost:43123/tags/governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/governance/</guid>
+      <guid>http://localhost:43123/tags/governance/</guid>
       <description></description>
     </item>
     <item>
       <title>Justice</title>
-      <link>http://localhost:1313/tags/justice/</link>
+      <link>http://localhost:43123/tags/justice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/justice/</guid>
+      <guid>http://localhost:43123/tags/justice/</guid>
       <description></description>
     </item>
     <item>
       <title>Adventure</title>
-      <link>http://localhost:1313/tags/adventure/</link>
+      <link>http://localhost:43123/tags/adventure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/adventure/</guid>
+      <guid>http://localhost:43123/tags/adventure/</guid>
       <description></description>
     </item>
     <item>
       <title>Art</title>
-      <link>http://localhost:1313/tags/art/</link>
+      <link>http://localhost:43123/tags/art/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/art/</guid>
+      <guid>http://localhost:43123/tags/art/</guid>
       <description></description>
     </item>
     <item>
       <title>Capitalism</title>
-      <link>http://localhost:1313/tags/capitalism/</link>
+      <link>http://localhost:43123/tags/capitalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/capitalism/</guid>
+      <guid>http://localhost:43123/tags/capitalism/</guid>
       <description></description>
     </item>
     <item>
       <title>Magic</title>
-      <link>http://localhost:1313/tags/magic/</link>
+      <link>http://localhost:43123/tags/magic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/magic/</guid>
+      <guid>http://localhost:43123/tags/magic/</guid>
       <description></description>
     </item>
     <item>
       <title>Magick</title>
-      <link>http://localhost:1313/tags/magick/</link>
+      <link>http://localhost:43123/tags/magick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/magick/</guid>
+      <guid>http://localhost:43123/tags/magick/</guid>
       <description></description>
     </item>
     <item>
       <title>Theory U</title>
-      <link>http://localhost:1313/tags/theory-u/</link>
+      <link>http://localhost:43123/tags/theory-u/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/theory-u/</guid>
+      <guid>http://localhost:43123/tags/theory-u/</guid>
       <description></description>
     </item>
     <item>
       <title>Diet</title>
-      <link>http://localhost:1313/tags/diet/</link>
+      <link>http://localhost:43123/tags/diet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/diet/</guid>
+      <guid>http://localhost:43123/tags/diet/</guid>
       <description></description>
     </item>
     <item>
       <title>Eczema</title>
-      <link>http://localhost:1313/tags/eczema/</link>
+      <link>http://localhost:43123/tags/eczema/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/eczema/</guid>
+      <guid>http://localhost:43123/tags/eczema/</guid>
       <description></description>
     </item>
     <item>
       <title>Karma</title>
-      <link>http://localhost:1313/tags/karma/</link>
+      <link>http://localhost:43123/tags/karma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/karma/</guid>
+      <guid>http://localhost:43123/tags/karma/</guid>
       <description></description>
     </item>
     <item>
       <title>Nonduality</title>
-      <link>http://localhost:1313/tags/nonduality/</link>
+      <link>http://localhost:43123/tags/nonduality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/nonduality/</guid>
+      <guid>http://localhost:43123/tags/nonduality/</guid>
       <description></description>
     </item>
     <item>
       <title>Topical Steroid Withdrawal</title>
-      <link>http://localhost:1313/tags/topical-steroid-withdrawal/</link>
+      <link>http://localhost:43123/tags/topical-steroid-withdrawal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/topical-steroid-withdrawal/</guid>
+      <guid>http://localhost:43123/tags/topical-steroid-withdrawal/</guid>
       <description></description>
     </item>
     <item>
       <title>TSW</title>
-      <link>http://localhost:1313/tags/tsw/</link>
+      <link>http://localhost:43123/tags/tsw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/tsw/</guid>
+      <guid>http://localhost:43123/tags/tsw/</guid>
       <description></description>
     </item>
     <item>
       <title>Fb</title>
-      <link>http://localhost:1313/tags/fb/</link>
+      <link>http://localhost:43123/tags/fb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/fb/</guid>
+      <guid>http://localhost:43123/tags/fb/</guid>
       <description></description>
     </item>
     <item>
       <title>Ifttt</title>
-      <link>http://localhost:1313/tags/ifttt/</link>
+      <link>http://localhost:43123/tags/ifttt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/ifttt/</guid>
+      <guid>http://localhost:43123/tags/ifttt/</guid>
       <description></description>
     </item>
     <item>
       <title>Tumblr</title>
-      <link>http://localhost:1313/tags/tumblr/</link>
+      <link>http://localhost:43123/tags/tumblr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/tumblr/</guid>
+      <guid>http://localhost:43123/tags/tumblr/</guid>
       <description></description>
     </item>
     <item>
       <title>Religion</title>
-      <link>http://localhost:1313/tags/religion/</link>
+      <link>http://localhost:43123/tags/religion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/religion/</guid>
+      <guid>http://localhost:43123/tags/religion/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Design</title>
-      <link>http://localhost:1313/tags/web-design/</link>
+      <link>http://localhost:43123/tags/web-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/web-design/</guid>
+      <guid>http://localhost:43123/tags/web-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Emptiness</title>
-      <link>http://localhost:1313/tags/emptiness/</link>
+      <link>http://localhost:43123/tags/emptiness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/emptiness/</guid>
+      <guid>http://localhost:43123/tags/emptiness/</guid>
       <description></description>
     </item>
     <item>
       <title>Ivan Illich</title>
-      <link>http://localhost:1313/tags/ivan-illich/</link>
+      <link>http://localhost:43123/tags/ivan-illich/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/ivan-illich/</guid>
+      <guid>http://localhost:43123/tags/ivan-illich/</guid>
       <description></description>
     </item>
     <item>
       <title>Michel Bauwens</title>
-      <link>http://localhost:1313/tags/michel-bauwens/</link>
+      <link>http://localhost:43123/tags/michel-bauwens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/michel-bauwens/</guid>
+      <guid>http://localhost:43123/tags/michel-bauwens/</guid>
       <description></description>
     </item>
     <item>
       <title>P2p</title>
-      <link>http://localhost:1313/tags/p2p/</link>
+      <link>http://localhost:43123/tags/p2p/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/p2p/</guid>
+      <guid>http://localhost:43123/tags/p2p/</guid>
       <description></description>
     </item>
     <item>
       <title>P2p Spirituality</title>
-      <link>http://localhost:1313/tags/p2p-spirituality/</link>
+      <link>http://localhost:43123/tags/p2p-spirituality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/p2p-spirituality/</guid>
+      <guid>http://localhost:43123/tags/p2p-spirituality/</guid>
       <description></description>
     </item>
     <item>
       <title>Scott Kiloby</title>
-      <link>http://localhost:1313/tags/scott-kiloby/</link>
+      <link>http://localhost:43123/tags/scott-kiloby/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/scott-kiloby/</guid>
+      <guid>http://localhost:43123/tags/scott-kiloby/</guid>
       <description></description>
     </item>
     <item>
       <title>Grof</title>
-      <link>http://localhost:1313/tags/grof/</link>
+      <link>http://localhost:43123/tags/grof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/grof/</guid>
+      <guid>http://localhost:43123/tags/grof/</guid>
       <description></description>
     </item>
     <item>
       <title>Healing</title>
-      <link>http://localhost:1313/tags/healing/</link>
+      <link>http://localhost:43123/tags/healing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/healing/</guid>
+      <guid>http://localhost:43123/tags/healing/</guid>
       <description></description>
     </item>
     <item>
       <title>Holotropic Breathwork</title>
-      <link>http://localhost:1313/tags/holotropic-breathwork/</link>
+      <link>http://localhost:43123/tags/holotropic-breathwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/holotropic-breathwork/</guid>
+      <guid>http://localhost:43123/tags/holotropic-breathwork/</guid>
       <description></description>
     </item>
     <item>
       <title>Illness</title>
-      <link>http://localhost:1313/tags/illness/</link>
+      <link>http://localhost:43123/tags/illness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/illness/</guid>
+      <guid>http://localhost:43123/tags/illness/</guid>
       <description></description>
     </item>
     <item>
       <title>Koan</title>
-      <link>http://localhost:1313/tags/koan/</link>
+      <link>http://localhost:43123/tags/koan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/koan/</guid>
+      <guid>http://localhost:43123/tags/koan/</guid>
       <description></description>
     </item>
     <item>
       <title>Resurrection</title>
-      <link>http://localhost:1313/tags/resurrection/</link>
+      <link>http://localhost:43123/tags/resurrection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/resurrection/</guid>
+      <guid>http://localhost:43123/tags/resurrection/</guid>
       <description></description>
     </item>
     <item>
       <title>Trauma</title>
-      <link>http://localhost:1313/tags/trauma/</link>
+      <link>http://localhost:43123/tags/trauma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/trauma/</guid>
+      <guid>http://localhost:43123/tags/trauma/</guid>
       <description></description>
     </item>
     <item>
       <title>Charles Eistenstein</title>
-      <link>http://localhost:1313/tags/charles-eistenstein/</link>
+      <link>http://localhost:43123/tags/charles-eistenstein/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/charles-eistenstein/</guid>
+      <guid>http://localhost:43123/tags/charles-eistenstein/</guid>
       <description></description>
     </item>
     <item>
       <title>Christina Grof</title>
-      <link>http://localhost:1313/tags/christina-grof/</link>
+      <link>http://localhost:43123/tags/christina-grof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/christina-grof/</guid>
+      <guid>http://localhost:43123/tags/christina-grof/</guid>
       <description></description>
     </item>
     <item>
       <title>Hell</title>
-      <link>http://localhost:1313/tags/hell/</link>
+      <link>http://localhost:43123/tags/hell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/hell/</guid>
+      <guid>http://localhost:43123/tags/hell/</guid>
       <description></description>
     </item>
     <item>
       <title>Psoriasis</title>
-      <link>http://localhost:1313/tags/psoriasis/</link>
+      <link>http://localhost:43123/tags/psoriasis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/psoriasis/</guid>
+      <guid>http://localhost:43123/tags/psoriasis/</guid>
       <description></description>
     </item>
     <item>
       <title>Self</title>
-      <link>http://localhost:1313/tags/self/</link>
+      <link>http://localhost:43123/tags/self/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/self/</guid>
+      <guid>http://localhost:43123/tags/self/</guid>
       <description></description>
     </item>
     <item>
       <title>Skin</title>
-      <link>http://localhost:1313/tags/skin/</link>
+      <link>http://localhost:43123/tags/skin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/skin/</guid>
+      <guid>http://localhost:43123/tags/skin/</guid>
       <description></description>
     </item>
     <item>
       <title>Stan Grof</title>
-      <link>http://localhost:1313/tags/stan-grof/</link>
+      <link>http://localhost:43123/tags/stan-grof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/stan-grof/</guid>
+      <guid>http://localhost:43123/tags/stan-grof/</guid>
       <description></description>
     </item>
     <item>
       <title>Visions</title>
-      <link>http://localhost:1313/tags/visions/</link>
+      <link>http://localhost:43123/tags/visions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/visions/</guid>
+      <guid>http://localhost:43123/tags/visions/</guid>
       <description></description>
     </item>
     <item>
       <title>Depression</title>
-      <link>http://localhost:1313/tags/depression/</link>
+      <link>http://localhost:43123/tags/depression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/depression/</guid>
+      <guid>http://localhost:43123/tags/depression/</guid>
       <description></description>
     </item>
     <item>
       <title>Healing Crisis</title>
-      <link>http://localhost:1313/tags/healing-crisis/</link>
+      <link>http://localhost:43123/tags/healing-crisis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/healing-crisis/</guid>
+      <guid>http://localhost:43123/tags/healing-crisis/</guid>
       <description></description>
     </item>
     <item>
       <title>Holy Grail</title>
-      <link>http://localhost:1313/tags/holy-grail/</link>
+      <link>http://localhost:43123/tags/holy-grail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/holy-grail/</guid>
+      <guid>http://localhost:43123/tags/holy-grail/</guid>
       <description></description>
     </item>
     <item>
       <title>Prednisone</title>
-      <link>http://localhost:1313/tags/prednisone/</link>
+      <link>http://localhost:43123/tags/prednisone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/prednisone/</guid>
+      <guid>http://localhost:43123/tags/prednisone/</guid>
       <description></description>
     </item>
     <item>
       <title>Steroids</title>
-      <link>http://localhost:1313/tags/steroids/</link>
+      <link>http://localhost:43123/tags/steroids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/steroids/</guid>
+      <guid>http://localhost:43123/tags/steroids/</guid>
       <description></description>
     </item>
     <item>
       <title>Surrender</title>
-      <link>http://localhost:1313/tags/surrender/</link>
+      <link>http://localhost:43123/tags/surrender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/surrender/</guid>
+      <guid>http://localhost:43123/tags/surrender/</guid>
       <description></description>
     </item>
     <item>
       <title>Colonialism</title>
-      <link>http://localhost:1313/tags/colonialism/</link>
+      <link>http://localhost:43123/tags/colonialism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/colonialism/</guid>
+      <guid>http://localhost:43123/tags/colonialism/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaza</title>
-      <link>http://localhost:1313/tags/gaza/</link>
+      <link>http://localhost:43123/tags/gaza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/gaza/</guid>
+      <guid>http://localhost:43123/tags/gaza/</guid>
       <description></description>
     </item>
     <item>
       <title>Heartbreak</title>
-      <link>http://localhost:1313/tags/heartbreak/</link>
+      <link>http://localhost:43123/tags/heartbreak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/heartbreak/</guid>
+      <guid>http://localhost:43123/tags/heartbreak/</guid>
       <description></description>
     </item>
     <item>
       <title>History</title>
-      <link>http://localhost:1313/tags/history/</link>
+      <link>http://localhost:43123/tags/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/history/</guid>
+      <guid>http://localhost:43123/tags/history/</guid>
       <description></description>
     </item>
     <item>
       <title>Politics</title>
-      <link>http://localhost:1313/tags/politics/</link>
+      <link>http://localhost:43123/tags/politics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/politics/</guid>
+      <guid>http://localhost:43123/tags/politics/</guid>
       <description></description>
     </item>
     <item>
       <title>Big Brother</title>
-      <link>http://localhost:1313/tags/big-brother/</link>
+      <link>http://localhost:43123/tags/big-brother/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/big-brother/</guid>
+      <guid>http://localhost:43123/tags/big-brother/</guid>
       <description></description>
     </item>
     <item>
       <title>NSA</title>
-      <link>http://localhost:1313/tags/nsa/</link>
+      <link>http://localhost:43123/tags/nsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/nsa/</guid>
+      <guid>http://localhost:43123/tags/nsa/</guid>
       <description></description>
     </item>
     <item>
       <title>Orwell</title>
-      <link>http://localhost:1313/tags/orwell/</link>
+      <link>http://localhost:43123/tags/orwell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/orwell/</guid>
+      <guid>http://localhost:43123/tags/orwell/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <link>http://localhost:43123/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>http://localhost:43123/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Responisbility</title>
-      <link>http://localhost:1313/tags/responisbility/</link>
+      <link>http://localhost:43123/tags/responisbility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/responisbility/</guid>
+      <guid>http://localhost:43123/tags/responisbility/</guid>
       <description></description>
     </item>
     <item>
       <title>Snowden</title>
-      <link>http://localhost:1313/tags/snowden/</link>
+      <link>http://localhost:43123/tags/snowden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/snowden/</guid>
+      <guid>http://localhost:43123/tags/snowden/</guid>
       <description></description>
     </item>
     <item>
       <title>Dreams</title>
-      <link>http://localhost:1313/tags/dreams/</link>
+      <link>http://localhost:43123/tags/dreams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/dreams/</guid>
+      <guid>http://localhost:43123/tags/dreams/</guid>
       <description></description>
     </item>
     <item>
       <title>God</title>
-      <link>http://localhost:1313/tags/god/</link>
+      <link>http://localhost:43123/tags/god/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/god/</guid>
+      <guid>http://localhost:43123/tags/god/</guid>
       <description></description>
     </item>
     <item>
       <title>IAO</title>
-      <link>http://localhost:1313/tags/iao/</link>
+      <link>http://localhost:43123/tags/iao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/iao/</guid>
+      <guid>http://localhost:43123/tags/iao/</guid>
       <description></description>
     </item>
     <item>
       <title>Initiation</title>
-      <link>http://localhost:1313/tags/initiation/</link>
+      <link>http://localhost:43123/tags/initiation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/initiation/</guid>
+      <guid>http://localhost:43123/tags/initiation/</guid>
       <description></description>
     </item>
     <item>
       <title>Leary</title>
-      <link>http://localhost:1313/tags/leary/</link>
+      <link>http://localhost:43123/tags/leary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/leary/</guid>
+      <guid>http://localhost:43123/tags/leary/</guid>
       <description></description>
     </item>
     <item>
       <title>Mythology</title>
-      <link>http://localhost:1313/tags/mythology/</link>
+      <link>http://localhost:43123/tags/mythology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/mythology/</guid>
+      <guid>http://localhost:43123/tags/mythology/</guid>
       <description></description>
     </item>
     <item>
       <title>Nietzsche</title>
-      <link>http://localhost:1313/tags/nietzsche/</link>
+      <link>http://localhost:43123/tags/nietzsche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/nietzsche/</guid>
+      <guid>http://localhost:43123/tags/nietzsche/</guid>
       <description></description>
     </item>
     <item>
       <title>Rites of Passage</title>
-      <link>http://localhost:1313/tags/rites-of-passage/</link>
+      <link>http://localhost:43123/tags/rites-of-passage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/rites-of-passage/</guid>
+      <guid>http://localhost:43123/tags/rites-of-passage/</guid>
       <description></description>
     </item>
     <item>
       <title>Ritual</title>
-      <link>http://localhost:1313/tags/ritual/</link>
+      <link>http://localhost:43123/tags/ritual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/ritual/</guid>
+      <guid>http://localhost:43123/tags/ritual/</guid>
       <description></description>
     </item>
     <item>
       <title>Surveillance</title>
-      <link>http://localhost:1313/tags/surveillance/</link>
+      <link>http://localhost:43123/tags/surveillance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/surveillance/</guid>
+      <guid>http://localhost:43123/tags/surveillance/</guid>
       <description></description>
     </item>
     <item>
       <title>Poems</title>
-      <link>http://localhost:1313/tags/poems/</link>
+      <link>http://localhost:43123/tags/poems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/poems/</guid>
+      <guid>http://localhost:43123/tags/poems/</guid>
       <description></description>
     </item>
     <item>
       <title>Vedanta</title>
-      <link>http://localhost:1313/tags/vedanta/</link>
+      <link>http://localhost:43123/tags/vedanta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/vedanta/</guid>
+      <guid>http://localhost:43123/tags/vedanta/</guid>
       <description></description>
     </item>
     <item>
       <title>Mixcloud</title>
-      <link>http://localhost:1313/tags/mixcloud/</link>
+      <link>http://localhost:43123/tags/mixcloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/mixcloud/</guid>
+      <guid>http://localhost:43123/tags/mixcloud/</guid>
       <description></description>
     </item>
     <item>
       <title>My Music</title>
-      <link>http://localhost:1313/tags/my-music/</link>
+      <link>http://localhost:43123/tags/my-music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/my-music/</guid>
+      <guid>http://localhost:43123/tags/my-music/</guid>
       <description></description>
     </item>
     <item>
       <title>Rebel Leader</title>
-      <link>http://localhost:1313/tags/rebel-leader/</link>
+      <link>http://localhost:43123/tags/rebel-leader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/rebel-leader/</guid>
+      <guid>http://localhost:43123/tags/rebel-leader/</guid>
       <description></description>
     </item>
     <item>
       <title>Christmas</title>
-      <link>http://localhost:1313/tags/christmas/</link>
+      <link>http://localhost:43123/tags/christmas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/christmas/</guid>
+      <guid>http://localhost:43123/tags/christmas/</guid>
       <description></description>
     </item>
     <item>
       <title>Psychedelia</title>
-      <link>http://localhost:1313/tags/psychedelia/</link>
+      <link>http://localhost:43123/tags/psychedelia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/psychedelia/</guid>
+      <guid>http://localhost:43123/tags/psychedelia/</guid>
       <description></description>
     </item>
     <item>
       <title>Shamanism</title>
-      <link>http://localhost:1313/tags/shamanism/</link>
+      <link>http://localhost:43123/tags/shamanism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/shamanism/</guid>
+      <guid>http://localhost:43123/tags/shamanism/</guid>
       <description></description>
     </item>
     <item>
       <title>15M</title>
-      <link>http://localhost:1313/tags/15m/</link>
+      <link>http://localhost:43123/tags/15m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/15m/</guid>
+      <guid>http://localhost:43123/tags/15m/</guid>
       <description></description>
     </item>
     <item>
       <title>Occupy Wall Street</title>
-      <link>http://localhost:1313/tags/occupy-wall-street/</link>
+      <link>http://localhost:43123/tags/occupy-wall-street/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/occupy-wall-street/</guid>
+      <guid>http://localhost:43123/tags/occupy-wall-street/</guid>
       <description></description>
     </item>
     <item>
       <title>Rushkoff</title>
-      <link>http://localhost:1313/tags/rushkoff/</link>
+      <link>http://localhost:43123/tags/rushkoff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/rushkoff/</guid>
+      <guid>http://localhost:43123/tags/rushkoff/</guid>
       <description></description>
     </item>
     <item>
       <title>Thoughts</title>
-      <link>http://localhost:1313/tags/thoughts/</link>
+      <link>http://localhost:43123/tags/thoughts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/thoughts/</guid>
+      <guid>http://localhost:43123/tags/thoughts/</guid>
       <description></description>
     </item>
     <item>
       <title>Stillness</title>
-      <link>http://localhost:1313/tags/stillness/</link>
+      <link>http://localhost:43123/tags/stillness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/stillness/</guid>
+      <guid>http://localhost:43123/tags/stillness/</guid>
       <description></description>
     </item>
     <item>
       <title>Utopia</title>
-      <link>http://localhost:1313/tags/utopia/</link>
+      <link>http://localhost:43123/tags/utopia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/utopia/</guid>
+      <guid>http://localhost:43123/tags/utopia/</guid>
       <description></description>
     </item>
     <item>
       <title>Guy James</title>
-      <link>http://localhost:1313/tags/guy-james/</link>
+      <link>http://localhost:43123/tags/guy-james/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/guy-james/</guid>
+      <guid>http://localhost:43123/tags/guy-james/</guid>
       <description></description>
     </item>
     <item>
       <title>Videos</title>
-      <link>http://localhost:1313/tags/videos/</link>
+      <link>http://localhost:43123/tags/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/videos/</guid>
+      <guid>http://localhost:43123/tags/videos/</guid>
       <description></description>
     </item>
     <item>
       <title>William Blake</title>
-      <link>http://localhost:1313/tags/william-blake/</link>
+      <link>http://localhost:43123/tags/william-blake/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/william-blake/</guid>
+      <guid>http://localhost:43123/tags/william-blake/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
+      <link>http://localhost:43123/tags/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/music/</guid>
+      <guid>http://localhost:43123/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Prog</title>
-      <link>http://localhost:1313/tags/prog/</link>
+      <link>http://localhost:43123/tags/prog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/prog/</guid>
+      <guid>http://localhost:43123/tags/prog/</guid>
       <description></description>
     </item>
     <item>
       <title>Review</title>
-      <link>http://localhost:1313/tags/review/</link>
+      <link>http://localhost:43123/tags/review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/review/</guid>
+      <guid>http://localhost:43123/tags/review/</guid>
       <description></description>
     </item>
     <item>
       <title>Imagine</title>
-      <link>http://localhost:1313/tags/imagine/</link>
+      <link>http://localhost:43123/tags/imagine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/imagine/</guid>
+      <guid>http://localhost:43123/tags/imagine/</guid>
       <description></description>
     </item>
     <item>
       <title>John Gray</title>
-      <link>http://localhost:1313/tags/john-gray/</link>
+      <link>http://localhost:43123/tags/john-gray/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/john-gray/</guid>
+      <guid>http://localhost:43123/tags/john-gray/</guid>
       <description></description>
     </item>
     <item>
       <title>John Lennon</title>
-      <link>http://localhost:1313/tags/john-lennon/</link>
+      <link>http://localhost:43123/tags/john-lennon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/john-lennon/</guid>
+      <guid>http://localhost:43123/tags/john-lennon/</guid>
       <description></description>
     </item>
     <item>
       <title>David Lynch</title>
-      <link>http://localhost:1313/tags/david-lynch/</link>
+      <link>http://localhost:43123/tags/david-lynch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/david-lynch/</guid>
+      <guid>http://localhost:43123/tags/david-lynch/</guid>
       <description></description>
     </item>
     <item>
       <title>Film</title>
-      <link>http://localhost:1313/tags/film/</link>
+      <link>http://localhost:43123/tags/film/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/film/</guid>
+      <guid>http://localhost:43123/tags/film/</guid>
       <description></description>
     </item>
     <item>
       <title>Heart of Glass</title>
-      <link>http://localhost:1313/tags/heart-of-glass/</link>
+      <link>http://localhost:43123/tags/heart-of-glass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/heart-of-glass/</guid>
+      <guid>http://localhost:43123/tags/heart-of-glass/</guid>
       <description></description>
     </item>
     <item>
       <title>Herzog</title>
-      <link>http://localhost:1313/tags/herzog/</link>
+      <link>http://localhost:43123/tags/herzog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/tags/herzog/</guid>
+      <guid>http://localhost:43123/tags/herzog/</guid>
       <description></description>
     </item>
   </channel>

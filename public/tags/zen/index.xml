@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zen on Guy James</title>
-    <link>http://localhost:1313/tags/zen/</link>
+    <link>http://localhost:43123/tags/zen/</link>
     <description>Recent content in Zen on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,26 +10,26 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 16 Apr 2021 15:11:11 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/zen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/zen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ordinary Mind Is Buddha Mind</title>
-      <link>http://localhost:1313/2021/02/20/ordinary-mind-is-buddha-mind/</link>
+      <link>http://localhost:43123/2021/02/20/ordinary-mind-is-buddha-mind/</link>
       <pubDate>Fri, 16 Apr 2021 15:11:11 +0200</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2021/02/20/ordinary-mind-is-buddha-mind/</guid>
+      <guid>http://localhost:43123/2021/02/20/ordinary-mind-is-buddha-mind/</guid>
       <description>There is a zen saying: &amp;ldquo;ordinary mind is Buddha mind&amp;rdquo;. I did understand this saying, but yesterday I realised it in a whole new way: Often what prompts us to start investigating &amp;rsquo;this spiritual stuff&amp;rsquo;, is a feeling of isolation; we feel as if, as this quote from A.E. Housman illustrates —&#xA;&amp;lsquo;I, a stranger and afraid, in a world I never made.&amp;rsquo;&#xA;We feel cut off from the source of life in some undefinable way, atomised by societal conditioning and our own past.</description>
     </item>
     <item>
       <title>Eczema As Koan Part 3: The Way Out</title>
-      <link>http://localhost:1313/2014/08/24/eczema-as-koan-part-3-the-way-out/</link>
+      <link>http://localhost:43123/2014/08/24/eczema-as-koan-part-3-the-way-out/</link>
       <pubDate>Sun, 24 Aug 2014 11:38:57 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2014/08/24/eczema-as-koan-part-3-the-way-out/</guid>
+      <guid>http://localhost:43123/2014/08/24/eczema-as-koan-part-3-the-way-out/</guid>
       <description>This is part three of my account of how I came to experience full healing from a very severe experience of eczema lasting several years. Part one is here and part two is here.&#xA;3I have covered my journey of healing and discovery up until this point, which took the form of a voyage into the depths of Hell and out again.&#xA;Looking back now, I can see that – after all the very difficult experiences of reliving my own birth, and releasing so much anger and resentment (I have barely scratched the surface here), plus experiencing mythic situations both hellish and heavenly – the real breakthrough came during the sixth session of Holotropic Breathwork I experienced in Barcelona.</description>
     </item>
     <item>
       <title>Eczema as Koan Part 1</title>
-      <link>http://localhost:1313/2014/08/12/eczema-as-koan-part-1/</link>
+      <link>http://localhost:43123/2014/08/12/eczema-as-koan-part-1/</link>
       <pubDate>Tue, 12 Aug 2014 18:51:03 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2014/08/12/eczema-as-koan-part-1/</guid>
+      <guid>http://localhost:43123/2014/08/12/eczema-as-koan-part-1/</guid>
       <description>This is part one of a three part article; part two is here and the final part is here&#xA;An excerpt from a recent article on my blog:&#xA;“About four years ago I spilt up with my girlfriend and subsequently became rather ill – I was eventually hospitalised and on admission the first nurse who saw me in a hospital gown assumed I had been burnt in a house fire, so badly destroyed was the weeping, bleeding skin all over my body.</description>
     </item>
   </channel>

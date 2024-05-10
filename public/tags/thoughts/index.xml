@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on Guy James</title>
-    <link>http://localhost:1313/tags/thoughts/</link>
+    <link>http://localhost:43123/tags/thoughts/</link>
     <description>Recent content in Thoughts on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,33 +10,33 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Sun, 09 Oct 2011 18:12:38 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Beginning Is Nigh</title>
-      <link>http://localhost:1313/2011/10/09/beginning-is-nigh/</link>
+      <link>http://localhost:43123/2011/10/09/beginning-is-nigh/</link>
       <pubDate>Sun, 09 Oct 2011 18:12:38 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/10/09/beginning-is-nigh/</guid>
+      <guid>http://localhost:43123/2011/10/09/beginning-is-nigh/</guid>
       <description>Having read Douglas Rushkoff’s excellent appraisal of the Occupy Wall Street movement, I felt I would like to add some thoughts.&#xA;There is a new consciousness crystallising, and Rushkoff said something which (as usual) was very insightful, in that the mainstream media are having trouble getting to grips with the (r)evolution because they can’t see it, it just looks like a jumble of different causes all mixed together, and the people at the heart of it refuse to discuss it on the mainstream media’s terms, and reduce everything to black and white and soundbites.</description>
     </item>
     <item>
       <title>Humility</title>
-      <link>http://localhost:1313/2011/06/12/humility/</link>
+      <link>http://localhost:43123/2011/06/12/humility/</link>
       <pubDate>Sun, 12 Jun 2011 15:06:40 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/06/12/humility/</guid>
+      <guid>http://localhost:43123/2011/06/12/humility/</guid>
       <description>Be thankful for your imperfect human body, because if our bodies were as beautiful as our soul, we would be insufferably conceited.</description>
     </item>
     <item>
       <title>Just BEING is a Revolutionary Act</title>
-      <link>http://localhost:1313/2011/05/26/just-being-is-a-revolutionary-act/</link>
+      <link>http://localhost:43123/2011/05/26/just-being-is-a-revolutionary-act/</link>
       <pubDate>Thu, 26 May 2011 10:54:29 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/05/26/just-being-is-a-revolutionary-act/</guid>
+      <guid>http://localhost:43123/2011/05/26/just-being-is-a-revolutionary-act/</guid>
       <description>By which I mean, just ‘being’ without doing anything, thinking anything in particular, or trying to be anyone special.&#xA;In this way we are not ‘productive’, we are not caught in the trap of ‘becoming’, we are not placing hope in an illusory ‘future’ which acts as a drug to stop us seeing the reality of how things are right now.&#xA;We are defying the corporate mindset that all people have to be efficient cogs in the machine, the machine which will deliver us to our inevitable technological Utopia.</description>
     </item>
     <item>
       <title>Living in a World Without Trends</title>
-      <link>http://localhost:1313/2008/06/30/living-in-a-world-without-trends/</link>
+      <link>http://localhost:43123/2008/06/30/living-in-a-world-without-trends/</link>
       <pubDate>Mon, 30 Jun 2008 09:46:24 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2008/06/30/living-in-a-world-without-trends/</guid>
+      <guid>http://localhost:43123/2008/06/30/living-in-a-world-without-trends/</guid>
       <description>&lt;p&gt;I’ve just realised something that may have been obvious to everyone else for ages: that now the vice-like grip of major label record labels has been loosened, the music business has more or less reached the end of trends.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hell on Guy James</title>
-    <link>http://localhost:1313/tags/hell/</link>
+    <link>http://localhost:43123/tags/hell/</link>
     <description>Recent content in Hell on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,12 +10,12 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Sat, 16 Aug 2014 19:19:10 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hell/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/hell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eczema as Koan Part 2: The Descent Into Hell</title>
-      <link>http://localhost:1313/2014/08/16/eczema-as-koan-part-2-the-descent-into-hell/</link>
+      <link>http://localhost:43123/2014/08/16/eczema-as-koan-part-2-the-descent-into-hell/</link>
       <pubDate>Sat, 16 Aug 2014 19:19:10 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2014/08/16/eczema-as-koan-part-2-the-descent-into-hell/</guid>
+      <guid>http://localhost:43123/2014/08/16/eczema-as-koan-part-2-the-descent-into-hell/</guid>
       <description>This is part two of my account of how I came to experience full healing from a very severe experience of eczema lasting several years. Part one is here and part three is here&#xA;Having ‘turned the corner’ as it were, (in terms of hope for the future if not in an actual improvement in my health), although I didn’t know for sure then if it was a genuine ‘touching rock bottom’, or merely one more step on the way down, I began to search for something which might genuinely make a difference to my health.</description>
     </item>
   </channel>

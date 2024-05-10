@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Herzog on Guy James</title>
-    <link>http://localhost:1313/tags/herzog/</link>
+    <link>http://localhost:43123/tags/herzog/</link>
     <description>Recent content in Herzog on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,12 +10,12 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Mon, 28 Jul 2008 16:35:22 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/herzog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/herzog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on Herzog’s ‘Heart of Glass’</title>
-      <link>http://localhost:1313/2008/07/28/thoughts-on-herzogs-heart-of-glass/</link>
+      <link>http://localhost:43123/2008/07/28/thoughts-on-herzogs-heart-of-glass/</link>
       <pubDate>Mon, 28 Jul 2008 16:35:22 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2008/07/28/thoughts-on-herzogs-heart-of-glass/</guid>
+      <guid>http://localhost:43123/2008/07/28/thoughts-on-herzogs-heart-of-glass/</guid>
       <description>&lt;p&gt;I just saw this film yesterday and it totally blew me away. Someone had said I should see it but I couldn’t remember why, I watched the whole thing with this nagging feeling at the back of my mind that there was something very odd about it.&lt;/p&gt;&#xA;&lt;p&gt;After it was over I looked it up on the net and then I remembered: the reason I particularly wanted to see it (apart from the fact that I want to see all of Herzog’s films), and  &lt;span class=&#34;pullquote&#34;&gt;one of the reasons it is very odd, is that all the actors in it are hypnotised, except one&lt;/span&gt;, Josef Bierbichler, who plays Hias, the herdsman who can see into the future.&lt;/p&gt;</description>
     </item>
   </channel>

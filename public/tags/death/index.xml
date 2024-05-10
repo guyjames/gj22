@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Death on Guy James</title>
-    <link>http://localhost:1313/tags/death/</link>
+    <link>http://localhost:43123/tags/death/</link>
     <description>Recent content in Death on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,12 +10,12 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 20 Mar 2020 18:44:27 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/death/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/death/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Myth of Progress and the Fear of Death</title>
-      <link>http://localhost:1313/2020/03/20/myth-of-progress/</link>
+      <link>http://localhost:43123/2020/03/20/myth-of-progress/</link>
       <pubDate>Fri, 20 Mar 2020 18:44:27 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2020/03/20/myth-of-progress/</guid>
+      <guid>http://localhost:43123/2020/03/20/myth-of-progress/</guid>
       <description>have you seen the moon tonight it&#39;s very nearly full so eat and drink your fill for soon &#39;twill come to pass the king will feed the grass and sacrifice his personality to the tree to the sea cos &#39;it&#39;s not me&#39; oh no personality will never pass for me because I&#39;m really the grass - Daevid Allen, Song of Satisfaction, from the album &#39;Good Morning&#39;, 1975. All contemporary political movements are in some way progressive, and in this article I will argue where that comes from, and why buying into the idea of Progress, as currently understood, will only serve to deepen our current predicament.</description>
     </item>
   </channel>

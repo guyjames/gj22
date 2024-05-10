@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devs on Guy James</title>
-    <link>http://localhost:1313/tags/devs/</link>
+    <link>http://localhost:43123/tags/devs/</link>
     <description>Recent content in Devs on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,12 +10,12 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Wed, 13 Jan 2021 22:20:30 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/devs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/devs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is Your Life Really Predetermined?</title>
-      <link>http://localhost:1313/2021/01/13/is-your-life-really-predetermined/</link>
+      <link>http://localhost:43123/2021/01/13/is-your-life-really-predetermined/</link>
       <pubDate>Wed, 13 Jan 2021 22:20:30 +0200</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2021/01/13/is-your-life-really-predetermined/</guid>
+      <guid>http://localhost:43123/2021/01/13/is-your-life-really-predetermined/</guid>
       <description>I was watching, and enjoying, the series Devs, developed by Alex Garland - if you haven&amp;rsquo;t seen it, it&amp;rsquo;s a philosophical conundrum wrapped in a streaming mini-series format, something like Black Mirror or Mr Robot, with a very nice aesthetic to the music and design. Or it&amp;rsquo;s a standard sci-fi mini-series with pretensions to having something to say philosophically. Anyway it got me thinking, which presumably is the point.&#xA;Back in the day I was somewhat into teachers like Ramesh Balsekar, Roger Castillo, Tony Parsons and Lisa Cairns, who all basically go with the idea of a totally predetermined universe - Wikipedia explains: Ramesh Balsekar - Wikipedia</description>
     </item>
   </channel>

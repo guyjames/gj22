@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on Guy James</title>
-    <link>http://localhost:1313/tags/writing/</link>
+    <link>http://localhost:43123/tags/writing/</link>
     <description>Recent content in Writing on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,12 +10,12 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Mon, 24 Oct 2022 15:01:09 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liminal: A New Literary Magazine</title>
-      <link>http://localhost:1313/2022/10/24/liminal-magazine/</link>
+      <link>http://localhost:43123/2022/10/24/liminal-magazine/</link>
       <pubDate>Mon, 24 Oct 2022 15:01:09 +0200</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2022/10/24/liminal-magazine/</guid>
+      <guid>http://localhost:43123/2022/10/24/liminal-magazine/</guid>
       <description>Just to draw your attention to the fact that one of my articles, Time And The Infinite Game is featured in the new literary journal, Liminal.&#xA;This online publication comes out of the Creative Word writing course taught by Daniel Pinchbeck (and which I believe has improved my writing style). The standard is very high so I feel privileged to be included. Check out some of the other articles and please do sign up for the digest if you enjoy them.</description>
     </item>
   </channel>

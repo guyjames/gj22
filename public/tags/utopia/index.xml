@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utopia on Guy James</title>
-    <link>http://localhost:1313/tags/utopia/</link>
+    <link>http://localhost:43123/tags/utopia/</link>
     <description>Recent content in Utopia on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,19 +10,19 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Thu, 26 May 2011 10:54:29 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/utopia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/utopia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Just BEING is a Revolutionary Act</title>
-      <link>http://localhost:1313/2011/05/26/just-being-is-a-revolutionary-act/</link>
+      <link>http://localhost:43123/2011/05/26/just-being-is-a-revolutionary-act/</link>
       <pubDate>Thu, 26 May 2011 10:54:29 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/05/26/just-being-is-a-revolutionary-act/</guid>
+      <guid>http://localhost:43123/2011/05/26/just-being-is-a-revolutionary-act/</guid>
       <description>By which I mean, just ‘being’ without doing anything, thinking anything in particular, or trying to be anyone special.&#xA;In this way we are not ‘productive’, we are not caught in the trap of ‘becoming’, we are not placing hope in an illusory ‘future’ which acts as a drug to stop us seeing the reality of how things are right now.&#xA;We are defying the corporate mindset that all people have to be efficient cogs in the machine, the machine which will deliver us to our inevitable technological Utopia.</description>
     </item>
     <item>
       <title>Colliding Utopias… and John Lennon’s ‘Imagine’</title>
-      <link>http://localhost:1313/2009/06/06/colliding-utopias-and-john-lennons-imagine/</link>
+      <link>http://localhost:43123/2009/06/06/colliding-utopias-and-john-lennons-imagine/</link>
       <pubDate>Sat, 06 Jun 2009 14:41:43 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2009/06/06/colliding-utopias-and-john-lennons-imagine/</guid>
+      <guid>http://localhost:43123/2009/06/06/colliding-utopias-and-john-lennons-imagine/</guid>
       <description>Last night I had the realisation, but to be honest it felt like a revelation, (and like all good revelations I can’t now understand why it wasn’t already obvious to me), that a great deal of the conflict in the world is caused by clashes between different groups trying to promote their own version of ‘utopia’. I had vaguely intimated this on being sent an article on John Gray, a distinctly anti-utopian philosopher, by my friend Nils Borg.</description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Gray on Guy James</title>
-    <link>http://localhost:1313/tags/john-gray/</link>
+    <link>http://localhost:43123/tags/john-gray/</link>
     <description>Recent content in John Gray on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,12 +10,12 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Sat, 06 Jun 2009 14:41:43 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/john-gray/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/john-gray/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colliding Utopias… and John Lennon’s ‘Imagine’</title>
-      <link>http://localhost:1313/2009/06/06/colliding-utopias-and-john-lennons-imagine/</link>
+      <link>http://localhost:43123/2009/06/06/colliding-utopias-and-john-lennons-imagine/</link>
       <pubDate>Sat, 06 Jun 2009 14:41:43 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2009/06/06/colliding-utopias-and-john-lennons-imagine/</guid>
+      <guid>http://localhost:43123/2009/06/06/colliding-utopias-and-john-lennons-imagine/</guid>
       <description>Last night I had the realisation, but to be honest it felt like a revelation, (and like all good revelations I can’t now understand why it wasn’t already obvious to me), that a great deal of the conflict in the world is caused by clashes between different groups trying to promote their own version of ‘utopia’. I had vaguely intimated this on being sent an article on John Gray, a distinctly anti-utopian philosopher, by my friend Nils Borg.</description>
     </item>
   </channel>

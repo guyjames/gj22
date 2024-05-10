@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gurus on Guy James</title>
-    <link>http://localhost:1313/tags/gurus/</link>
+    <link>http://localhost:43123/tags/gurus/</link>
     <description>Recent content in Gurus on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,12 +10,12 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Sat, 20 Feb 2021 20:36:30 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gurus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/gurus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When Meditation Makes Things Worse</title>
-      <link>http://localhost:1313/2021/02/20/when-meditation-makes-things-worse/</link>
+      <link>http://localhost:43123/2021/02/20/when-meditation-makes-things-worse/</link>
       <pubDate>Sat, 20 Feb 2021 20:36:30 +0200</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2021/02/20/when-meditation-makes-things-worse/</guid>
+      <guid>http://localhost:43123/2021/02/20/when-meditation-makes-things-worse/</guid>
       <description>&amp;ldquo;One does not become enlightened by imagining figures of light, but by making the darkness conscious.&amp;rdquo; ― C. G. Jung&#xA;Some practitioners of meditation appear to be holding on to assumptions which, while possibly beneficial in the proper context, can in fact end up being actually harmful when misunderstood. I speak from personal experience here, and also often see others struggling with this. You may well recognise it from your own practice.</description>
     </item>
   </channel>

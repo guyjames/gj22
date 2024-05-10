@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meditation on Guy James</title>
-    <link>http://localhost:1313/tags/meditation/</link>
+    <link>http://localhost:43123/tags/meditation/</link>
     <description>Recent content in Meditation on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,19 +10,19 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 16 Apr 2021 15:11:11 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meditation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/meditation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ordinary Mind Is Buddha Mind</title>
-      <link>http://localhost:1313/2021/02/20/ordinary-mind-is-buddha-mind/</link>
+      <link>http://localhost:43123/2021/02/20/ordinary-mind-is-buddha-mind/</link>
       <pubDate>Fri, 16 Apr 2021 15:11:11 +0200</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2021/02/20/ordinary-mind-is-buddha-mind/</guid>
+      <guid>http://localhost:43123/2021/02/20/ordinary-mind-is-buddha-mind/</guid>
       <description>There is a zen saying: &amp;ldquo;ordinary mind is Buddha mind&amp;rdquo;. I did understand this saying, but yesterday I realised it in a whole new way: Often what prompts us to start investigating &amp;rsquo;this spiritual stuff&amp;rsquo;, is a feeling of isolation; we feel as if, as this quote from A.E. Housman illustrates —&#xA;&amp;lsquo;I, a stranger and afraid, in a world I never made.&amp;rsquo;&#xA;We feel cut off from the source of life in some undefinable way, atomised by societal conditioning and our own past.</description>
     </item>
     <item>
       <title>When Meditation Makes Things Worse</title>
-      <link>http://localhost:1313/2021/02/20/when-meditation-makes-things-worse/</link>
+      <link>http://localhost:43123/2021/02/20/when-meditation-makes-things-worse/</link>
       <pubDate>Sat, 20 Feb 2021 20:36:30 +0200</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2021/02/20/when-meditation-makes-things-worse/</guid>
+      <guid>http://localhost:43123/2021/02/20/when-meditation-makes-things-worse/</guid>
       <description>&amp;ldquo;One does not become enlightened by imagining figures of light, but by making the darkness conscious.&amp;rdquo; ― C. G. Jung&#xA;Some practitioners of meditation appear to be holding on to assumptions which, while possibly beneficial in the proper context, can in fact end up being actually harmful when misunderstood. I speak from personal experience here, and also often see others struggling with this. You may well recognise it from your own practice.</description>
     </item>
   </channel>

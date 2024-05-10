@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nietzsche on Guy James</title>
-    <link>http://localhost:1313/tags/nietzsche/</link>
+    <link>http://localhost:43123/tags/nietzsche/</link>
     <description>Recent content in Nietzsche on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,12 +10,12 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Sat, 03 Aug 2013 10:40:44 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nietzsche/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/tags/nietzsche/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big Brother is the Reincarnation of God</title>
-      <link>http://localhost:1313/2013/08/03/big-brother-is-the-reincarnation-of-god/</link>
+      <link>http://localhost:43123/2013/08/03/big-brother-is-the-reincarnation-of-god/</link>
       <pubDate>Sat, 03 Aug 2013 10:40:44 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2013/08/03/big-brother-is-the-reincarnation-of-god/</guid>
+      <guid>http://localhost:43123/2013/08/03/big-brother-is-the-reincarnation-of-god/</guid>
       <description>‘God is dead. God remains dead. And we have killed him. Yet his shadow still looms.’ — Nietzsche, The Gay Science.&#xA;‘In one period of experimentation with acid, Barrett and another friend, Paul Charrier, end up naked in the bath, reciting: “No rules, no rules”.’ – Manning, Toby (2006). The Rough Guide to Pink Floyd.&#xA;Taken from Boing Boing&#xA;Ok here we go… I had a dream last night – I was in a large, old-fashioned wood-panelled library; on the wall was a painting of a mischievous looking wizard – in appearance something like a cross between Alan Watts and Gandalf as played by Sir Ian McKellen.</description>
     </item>
   </channel>

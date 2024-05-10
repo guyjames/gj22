@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Music on Guy James</title>
-    <link>http://localhost:1313/categories/my-music/</link>
+    <link>http://localhost:43123/categories/my-music/</link>
     <description>Recent content in My Music on Guy James</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
@@ -10,75 +10,75 @@
     <webMaster>info@guyjames.com (Guy James)</webMaster>
     <copyright>© {year}</copyright>
     <lastBuildDate>Mon, 26 Nov 2012 12:37:07 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/my-music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43123/categories/my-music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rebel Leader – No Wars</title>
-      <link>http://localhost:1313/2012/11/26/rebel-leader-no-war/</link>
+      <link>http://localhost:43123/2012/11/26/rebel-leader-no-war/</link>
       <pubDate>Mon, 26 Nov 2012 12:37:07 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2012/11/26/rebel-leader-no-war/</guid>
+      <guid>http://localhost:43123/2012/11/26/rebel-leader-no-war/</guid>
       <description>&lt;p&gt;A tune from back in the day by my electronica offshoot, Rebel Leader.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Do Santa’s Reindeer Fly? A Video by Guy James</title>
-      <link>http://localhost:1313/2011/12/23/why-do-santas-reindeer-fly-a-video-by-guy-james/</link>
+      <link>http://localhost:43123/2011/12/23/why-do-santas-reindeer-fly-a-video-by-guy-james/</link>
       <pubDate>Fri, 23 Dec 2011 16:43:51 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/12/23/why-do-santas-reindeer-fly-a-video-by-guy-james/</guid>
+      <guid>http://localhost:43123/2011/12/23/why-do-santas-reindeer-fly-a-video-by-guy-james/</guid>
       <description>The psychedelic and shamanic origins of Christmas.</description>
     </item>
     <item>
       <title>You Are The Seer of Everything</title>
-      <link>http://localhost:1313/2011/11/21/you-are-the-seer-of-everything/</link>
+      <link>http://localhost:43123/2011/11/21/you-are-the-seer-of-everything/</link>
       <pubDate>Mon, 21 Nov 2011 10:08:58 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/11/21/you-are-the-seer-of-everything/</guid>
+      <guid>http://localhost:43123/2011/11/21/you-are-the-seer-of-everything/</guid>
       <description>New spacey track by me featuring the voice of the spiritual teacher, Mooji.&#xA;This is the first time I’ve used the ‘glissando guitar’ technique as pioneered by Syd Barrett and perfected by Daevid Allen and Steve Hillage in Gong.</description>
     </item>
     <item>
       <title>Guy James Album Available</title>
-      <link>http://localhost:1313/2011/11/12/guy-james-album-available/</link>
+      <link>http://localhost:43123/2011/11/12/guy-james-album-available/</link>
       <pubDate>Fri, 11 Nov 2011 23:37:32 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/11/12/guy-james-album-available/</guid>
+      <guid>http://localhost:43123/2011/11/12/guy-james-album-available/</guid>
       <description>My self-titled album has now been re-released. It was available for a short time at amiestreet.com but that was bought by Amazon and everything on that site was never seen again.&#xA;So you can listen to it and if you like, buy it (please do!) at music.guyjames.com.&#xA;It was a real labour of love and I have to say I am very pleased with it. Big thanks to Scutty Lefunk who helped out with large parts of it and contributed two of the greatest guitar solos you will hear, on ‘Crashing on the rocks in your head’ and ‘Residue’.</description>
     </item>
     <item>
       <title>William Blake: ‘Proverbs of Hell’ Read by Guy James (amb traduccions en Catala)</title>
-      <link>http://localhost:1313/2011/01/07/william-blake-proverbs-of-hell-read-by-guy-james-amb-traduccions-en-catala/</link>
+      <link>http://localhost:43123/2011/01/07/william-blake-proverbs-of-hell-read-by-guy-james-amb-traduccions-en-catala/</link>
       <pubDate>Fri, 07 Jan 2011 11:52:50 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/01/07/william-blake-proverbs-of-hell-read-by-guy-james-amb-traduccions-en-catala/</guid>
+      <guid>http://localhost:43123/2011/01/07/william-blake-proverbs-of-hell-read-by-guy-james-amb-traduccions-en-catala/</guid>
       <description>William Blake: ‘Proverbs of Hell’ Read by Guy James (amb traduccions en Català)</description>
     </item>
     <item>
       <title>Guy James – White Horses of the Wind</title>
-      <link>http://localhost:1313/2011/01/03/white-horses-of-the-wind/</link>
+      <link>http://localhost:43123/2011/01/03/white-horses-of-the-wind/</link>
       <pubDate>Mon, 03 Jan 2011 21:48:10 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/01/03/white-horses-of-the-wind/</guid>
+      <guid>http://localhost:43123/2011/01/03/white-horses-of-the-wind/</guid>
       <description>Instruments, production and vocals by Guy James.&#xA;Vocals by Jenny and Natalie.&#xA;On SoundCloud</description>
     </item>
     <item>
       <title>Guy James – Sweet Nothing</title>
-      <link>http://localhost:1313/2011/01/02/sweet-nothing-2/</link>
+      <link>http://localhost:43123/2011/01/02/sweet-nothing-2/</link>
       <pubDate>Sun, 02 Jan 2011 19:50:27 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2011/01/02/sweet-nothing-2/</guid>
+      <guid>http://localhost:43123/2011/01/02/sweet-nothing-2/</guid>
       <description>On SoundCloud</description>
     </item>
     <item>
       <title>Guy James – Squinty Straight Lights</title>
-      <link>http://localhost:1313/2010/10/08/guy-james-squinty-straight-lights/</link>
+      <link>http://localhost:43123/2010/10/08/guy-james-squinty-straight-lights/</link>
       <pubDate>Fri, 08 Oct 2010 16:04:52 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2010/10/08/guy-james-squinty-straight-lights/</guid>
+      <guid>http://localhost:43123/2010/10/08/guy-james-squinty-straight-lights/</guid>
       <description>On SoundCloud</description>
     </item>
     <item>
       <title>Guy James &amp; Sarah Sansom – The Brunettes</title>
-      <link>http://localhost:1313/2010/09/14/guy-james-sarah-sansom-the-brunettes/</link>
+      <link>http://localhost:43123/2010/09/14/guy-james-sarah-sansom-the-brunettes/</link>
       <pubDate>Tue, 14 Sep 2010 19:47:00 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2010/09/14/guy-james-sarah-sansom-the-brunettes/</guid>
+      <guid>http://localhost:43123/2010/09/14/guy-james-sarah-sansom-the-brunettes/</guid>
       <description>On SoundCloud&#xA;Thanks to Sarah for playing piano and cello on this one.</description>
     </item>
     <item>
       <title>Multiplex: Unknown Control (Guy James Remix)</title>
-      <link>http://localhost:1313/2010/09/09/multiplex-unknown-control-guy-james-remix/</link>
+      <link>http://localhost:43123/2010/09/09/multiplex-unknown-control-guy-james-remix/</link>
       <pubDate>Thu, 09 Sep 2010 20:24:01 +0000</pubDate><author>info@guyjames.com (Guy James)</author>
-      <guid>http://localhost:1313/2010/09/09/multiplex-unknown-control-guy-james-remix/</guid>
+      <guid>http://localhost:43123/2010/09/09/multiplex-unknown-control-guy-james-remix/</guid>
       <description>A remix I did of a track by the band Multiplex. It was released in Canada only by Piehead records.&#xA;On SoundCloud</description>
     </item>
   </channel>
