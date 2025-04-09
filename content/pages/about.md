@@ -13,9 +13,9 @@ layout: page
 
 **Ruminations on GameB, P2P, collapse, regenerative cultures, Web3.0, psychedelics and music.**
 
-Currently working with [BEYØND DAO](https://bey0nd.us).  
+Currently working with [The Elevator](https://theelevator.earth).  
 
-In the past I have worked with the Cooperativa Integral Catalana - you can see me and others talking about it in the documentary [Autogestió](https://enfable.org/autogestio/) - also the Ecoxarxa Garrotxa, and [FairCoop](https://fair.coop). For more details see the [CV page]({{< ref "/pages/cv" >}} "My CV").
+In the past I have worked with the Cooperativa Integral Catalana - you can see me and others talking about it in the documentary [Autogestió](https://enfable.org/autogestio/) - also the Ecoxarxa Garrotxa, and [FairCoop](https://web.archive.org/web/20170906021046/http://fair.coop/). For more details see the [CV page]({{< ref "/pages/cv" >}} "My CV").
 
 In my opinion humanity is approaching a threshold: we are in an extended process of birthing a new consciousness. The increasing collapse of default systems, both internal and external, is part of this, and the outcome is not assured. My interest is in stepping up to help the transition and in building the systems we need.
 
@@ -27,8 +27,6 @@ If you read some [blog entries]({{< ref "/blog" >}} "Guy James' blog") you will 
 
 I am on Mastodon [@guyjames@social.coop](https://social.coop/@guyjames) and [Twitter](https://twitter.com/guyjames23).
 
-My newsletter is at [ghost.guyjames.com](https://ghost.guyjames.com).
-
-You can see a selection of my photography at [photos.guyjames.com](https://photos.guyjames.com/).
+My newsletter is [guyjames.substack.com](https://guyjames.substack.com).
 
 My music is at [music.guyjames.com](https://music.guyjames.com)
