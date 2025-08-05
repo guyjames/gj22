@@ -14,7 +14,7 @@ toc: true
 
 - Male
 - Born 1969 in the UK
-- Currently living in the highest village in Spain (alt. 1678m), Valdelinares, in the Teruel region.
+- Currently living in a town in NE Spain (Catalonia, north of Barcelona)
 
 ![guy-profile.jpg](/images/guy-profile.jpg)
 
@@ -22,9 +22,9 @@ toc: true
 
 ## Work/Affiliations
 
-- I am one of the founders of the [BEYØND DAO](https://bey0nd.us), working with artists to further the cause of consciousness research in Web3.0. This is my main current project along with [The Elevator](https://theelevator.earth) which is a nascent 'consciousness accelerator'/think tank. I am currently producing a digest/newsletter on consciousness research for The Elevator in collaboration with the author Daniel Pinchbeck; it can be found at [wearetheelevator.substack.com](https://wearetheelevator.substack.com)
+- I currently working at [The Elevator](https://theelevator.earth) which is a nascent 'consciousness accelerator'/think tank. I am producing a digest/newsletter on consciousness research for The Elevator in collaboration with the author Daniel Pinchbeck; it can be found at [wearetheelevator.substack.com](https://wearetheelevator.substack.com)
 - I am collaborating as a trainer with the [EcologyHub](ecologyhub.org/) project based in Terres de l'Ebre in the south of Catalonia
-- I co-managed the retreat centre [Les Gavatxes](https://lesgavatxes.es) in the area of La Alta Garrotxa, Catalonia, Spain for 6 years
+- I co-managed the retreat centre [Les Gavatxes](https://lesgavatxes.es) in the area of La Alta Garrotxa, Catalonia, Spain for 7 years
 - I have collaborated with [SEEDS](https://joinseeds.earth) on their tokenomics/currency model
 - I worked on the [FairCoop](https://web.archive.org/web/20220810121936/https://fair.coop/en) project, effectively one of the first DAOs, for 4 years: 2014-18
 - I have worked with the Cooperativa Integral Catalana and the Ecoxarxa Garrotxa, localised cooperative projects in Catalonia, using local currencies
@@ -64,18 +64,22 @@ toc: true
 - Breathwork and Growth with Rebel Wisdom and Prema McKeever
 - The Art of Difficult Conversations with Rebel Wisdom, Sara Ness and Geof Krum
 - Distributed Governance Salon with Jean Russell and Melissa Pierce
+- Wisdoms Of Water with advaya
+- Dionysus with advaya
 - I have participated in several Zen retreats, including with Michel Dubois Sensei and Roshi Jackie Demmers from the White Plum Soto Zen lineage
 - I had several years of Spanish lessons, and also did various Catalan courses including the online parla.cat one
+- I am learning Portuguese at the moment using an app
 
 ## Skills
 
-- I speak English (native), Spanish (fluently), Catalan (fairly well), and French (fairly badly)
+- I speak English (native), Spanish (fluently), Catalan (fairly well), French (fairly badly), Portuguese (beginner)
 - Translation from Spanish to English
 - Copywriting, proofreading, and editing
 - Book publication, both printed and ebook formats
 - Adobe InDesign and Photoshop
 - HTML and CSS, Typo3, WordPress
 - Linux command-line admin
+- Local AI setup (ollama, LM Studio, etc.)
 - Hardware and software admin and diagnostics on Windows, MacOS and Linux
 - Music and video editing using open source tools such as Audacity and Kdenlive
 - I can play the guitar to a solid level
@@ -93,7 +97,7 @@ toc: true
 - I love almost all kinds of music, particularly jazz fusion and prog rock, but also folk, jazz, singer-songwriter, neo-classical, orchestral, etc...
 - I am an enthusiastic participant in Holotropic Breathwork therapy, developed by Stanislav and Christina Grof. So far I have done 29 one-day workshops in this and am planning to become a facilitator
 - I have been meditating since I was 18
-- I am working at improving my writing, particularly for my [newsletter](htpps://ghost.guyjames.com)
+- I am working at improving my writing, particularly for my [newsletter](htpps://guyjames.substack.com)
 - I am an advocate for Free and Open Source Software (FOSS) and have been using Linux as my main OS since 2012
 - I enjoy walks in the mountains here in Catalonia
 - I am learning photography and own a Sony Alpha A6000 mirrorless camera
@@ -129,4 +133,3 @@ toc: true
 - Alan Moore
 - Venkatesh Rao
 - Gary Lachman
-
