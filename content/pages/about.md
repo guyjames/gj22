@@ -11,7 +11,7 @@ layout: page
 
 {{< figure src="/images/guy-stone.jpg" alt="Guy James" >}}
 
-**Ruminations on GameB, P2P, collapse, regenerative cultures, Web3.0, psychedelics and music.**
+**Ruminations on consciousness, collapse, regenerative cultures, Web3.0, psychedelics and music.**
 
 Currently working with [The Elevator](https://theelevator.earth).  
 
@@ -23,6 +23,7 @@ In my opinion humanity is approaching a threshold: we are in an extended process
 <cite>― Yak Collective</cite> [Don't Waste the Reboot](https://roamresearch.com/#/app/sharedmyths/page/on9856-xj)
 
 Other interests are meditation, walking in the mountains, and playing and listening to all kinds of music. 
+
 If you read some [blog entries]({{< ref "/blog" >}} "Guy James' blog") you will get a picture of what I am up to and what I am into.
 
 I am on Mastodon [@guyjames@social.coop](https://social.coop/@guyjames) and [Twitter](https://twitter.com/guyjames23).
